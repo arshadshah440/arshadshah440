@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**arshadshah440/arshadshah440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Who is this?
+$me = Human::create(
+    first_name: 'Arshad',
+    last_name: 'shah',
+    linkedin: 'https://www.linkedin.com/in/dev-arshad-shah/',
+);
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$me->educations()->saveMany(
+    new Education(
+        institution: 'University of Sargodha',
+        degree: 'Bachelor of computer Science',
+        subject: 'Computer Science',
+        graduated: 2022
+    )
+);
+What are you my skills?
+{
+    "name": "bilfeldt/skills",
+    "type": "Skills",
+    "description": "My Skills",
+    "keywords": [
+        "php",
+        "javascript",
+        "JQuery",
+        "AJAX",
+        "React.js"
+    ],
+}
