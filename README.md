@@ -5,6 +5,8 @@ Who is this?
 <div class="highlight highlight-text-html-php notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-s1"><span class="pl-c1">$</span>me</span> = <span class="pl-v">Human</span>::<span class="pl-en">create</span>(
     first_name: <span class="pl-s">'<span class="pl-s">Arshad</span>'</span>,
     last_name: <span class="pl-s">'<span class="pl-s">Shah</span>'</span>,
+    tagline: <span class="pl-s">'<span class="pl-s">WordPress & React dev crafting seamless web experiences. </span>'</span>,
+    email: <span class="pl-s">'<span class="pl-s">muhammadarshadshah8@gmail.com'</span>,
     linkedin: <span class="pl-s">'<span class="pl-s">https://www.linkedin.com/in/dev-arshad-shah/</span>'</span>,
 );
 
@@ -18,9 +20,10 @@ Who is this?
     )
 );</pre>
 <br>
-What are my skills?
+🚀 Languages and Tools I Use
 <br>
-<div class="highlight highlight-text-html-php notranslate position-relative overflow-auto" dir="auto" style='display:flex;' ><pre>
+<br>
+<div class="highlight highlight-text-html-php notranslate position-relative overflow-auto" dir="auto" style="padding:20px;" >
     <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
@@ -38,8 +41,9 @@ What are my skills?
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <br>
-);</pre>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=arshadshah440&show_icons=true&locale=en" alt="arshadshah440" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshadshah440&" alt="arshadshah440" /></p>
