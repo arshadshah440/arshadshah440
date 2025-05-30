@@ -47,3 +47,4 @@ Who is this?
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=arshadshah440&show_icons=true&locale=en" alt="arshadshah440" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=arshadshah440" alt="GitHub Streak" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arshadshah440" alt="GitHub Streak" /></a>
